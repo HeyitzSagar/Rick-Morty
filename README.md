@@ -14,13 +14,13 @@ Single Detailed Oriented Card Page
 # Installation
   Provide step-by-step instructions on how to install and set up your app. Include any dependencies that need to be installed.
 
-# CLONE THE REPOSITORY
+  # CLONE THE REPOSITORY
   git clone https://github.com/HeyitzSagar/Rick-Morty
-  #Change the directory Path
+  # Change the directory Path
   cd Rick & Morty
   # Install the dependencies
   npm install
-  # change the directory to the server
+  # Change the directory to the server
   cd server
   # install the dependencies
   npm install 
