@@ -1,5 +1,6 @@
 # netlify.toml
 
+
 # Redirects
 [[redirects]]
   from = "/old-page"
