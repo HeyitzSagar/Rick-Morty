@@ -27,10 +27,10 @@ Single Detailed Oriented Card Page
   # Start the project 
   npm start
   # API
-  # Detail the external API you used for fetching Rick and Morty data.
+  # Detailed of the external API I have used for fetching Rick and Morty data.
   # Rick and Morty API
   # Base URL: https://rickandmortyapi.com/api 
   # For more information, refer to the official documentation.
-    https://rickandmortyapi.com/
+   https://rickandmortyapi.com/
     
   
