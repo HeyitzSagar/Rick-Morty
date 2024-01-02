@@ -30,8 +30,7 @@ Single Detailed Oriented Card Page
   # Detailed of the external API I have used for fetching Rick and Morty data.
 
   # The project is live at : https://rickandmortybysagar.netlify.app/
-    Due to some issues the route is not working on the productions. 
-    Will be fixing it soon, but you can clone it and run it locally.
+    
   # Rick and Morty API
   # Base URL: https://rickandmortyapi.com/api 
   # For more information, refer to the official documentation.
