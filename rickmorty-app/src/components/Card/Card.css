@@ -1,0 +1,16 @@
+.cards {
+  border: 2px solid #228b12;
+  border-radius: 10px;
+}
+.img {
+  border-radius: 10px 10px 10px 10px;
+}
+.badge {
+  top: 10px;
+  right: 20px;
+  font-size: 17px;
+}
+.img:hover {
+  transition: transform 0.3s ease-in-out;
+  transform: scale(1.1);
+}

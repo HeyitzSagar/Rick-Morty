@@ -1,0 +1,13 @@
+.cursive {
+  font-family: cursive;
+  font-weight: bold;
+}
+.navbar-color {
+  opacity: 1;
+  background: hsla(140, 57%, 80%, 1);
+}
+.active{
+  border-bottom: 2px solid #0b5ed7;
+  font-weight: bold;
+  color: #0b5ed7 !important;
+}
